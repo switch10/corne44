@@ -5,7 +5,7 @@ The Corne44 is a corne-like split ergo board with an additional key in the thumb
 3D printed case and plate files can be found here:
 
 Bill Of Materials:
-1. 2x [RP2040-Zero's]([url](https://www.amazon.com/RP2040-Zero-High-Performance-Microcontroller-Castellated-Boards-2pcs/dp/B0B2Z3YWB9/ref=sr_1_4?crid=2R3X3IHIH8SXR&keywords=RP2040-Zero&qid=1698799289&s=electronics&sprefix=rp2040-zero%2Celectronics%2C111&sr=1-4)https://www.amazon.com/RP2040-Zero-High-Performance-Microcontroller-Castellated-Boards-2pcs/dp/B0B2Z3YWB9/ref=sr_1_4?crid=2R3X3IHIH8SXR&keywords=RP2040-Zero&qid=1698799289&s=electronics&sprefix=rp2040-zero%2Celectronics%2C111&sr=1-4)
+1. 2x [RP2040-Zero's]([[url](https://www.amazon.com/RP2040-Zero-High-Performance-Microcontroller-Castellated-Boards-2pcs/dp/B0B2Z3YWB9/ref=sr_1_4?crid=2R3X3IHIH8SXR&keywords=RP2040-Zero&qid=1698799289&s=electronics&sprefix=rp2040-zero%2Celectronics%2C111&sr=1-4)https://www.amazon.com/RP2040-Zero-High-Performance-Microcontroller-Castellated-Boards-2pcs/dp/B0B2Z3YWB9/ref=sr_1_4?crid=2R3X3IHIH8SXR&keywords=RP2040-Zero&qid=1698799289&s=electronics&sprefix=rp2040-zero%2Celectronics%2C111&sr=1-4)
 2. 2x [Aviation Plugs]([url](https://www.amazon.com/dp/B07D3DC1PD?psc=1&ref=ppx_yo2ov_dt_b_product_details)https://www.amazon.com/dp/B07D3DC1PD?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 3. 44x [1N4148 Switching Diodes]([url](https://www.amazon.com/dp/B0BNMBHKQQ?psc=1&ref=ppx_yo2ov_dt_b_product_details)https://www.amazon.com/dp/B0BNMBHKQQ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 4. [WS2812B RGB LED Strip] for optional RGB underglow ([url](https://www.amazon.com/dp/B09573HX4X?ref=ppx_yo2ov_dt_b_product_details&th=1)https://www.amazon.com/dp/B09573HX4X?ref=ppx_yo2ov_dt_b_product_details&th=1)
