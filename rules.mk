@@ -1,0 +1,5 @@
+SPLIT_KEYBOARD = yes
+SERIAL_DRIVER = vendor
+
+RGBLIGHT_ENABLE = yes
+WS2812_DRIVER = vendor
