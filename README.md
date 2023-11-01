@@ -10,7 +10,7 @@ Bill Of Materials:
 3. 44x [1N4148 Switching Diodes](https://www.amazon.com/dp/B0BNMBHKQQ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 4. 1x [WS2812B RGB LED Strip](https://www.amazon.com/dp/B09573HX4X?ref=ppx_yo2ov_dt_b_product_details&th=1) for optional RGB underglow
 5. 1x [24 AWG Solid Core Wire](https://www.amazon.com/dp/B09BFFGTLH?ref=ppx_yo2ov_dt_b_product_details&th=1)
-6. 8x [M5 Socket Head Screws](https://www.amazon.com/dp/B08F9RW1CB?ref=ppx_yo2ov_dt_b_product_details&th=1) for optional case tenting
+6. 8x [M5 Socket Head Screws](https://www.amazon.com/dp/B08F9RW1CB?ref=ppx_yo2ov_dt_b_product_details&th=1) for optional case tenting. I use two 40mm and two 20mm per side.
 7. 16x [M2x8 counter sunk screws](https://www.amazon.com/NINDEJIN-Countersunk-Replacement-Electronic-Accessories/dp/B0B5CY5LY5/ref=sr_1_6?crid=O46WBTCJA9JE&keywords=m2%2Bscrews%2Bcountersunk&qid=1698800264&sprefix=m2%2Bscrews%2Caps%2C103&sr=8-6&th=1) for attaching the plate to the case
 8. 44x MX style switches of your choice.
 9. Keycap set of your choice.
