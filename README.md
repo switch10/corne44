@@ -12,3 +12,5 @@ Bill Of Materials:
 [24 AWG Solid Core Wire]([url](https://www.amazon.com/dp/B09BFFGTLH?ref=ppx_yo2ov_dt_b_product_details&th=1)https://www.amazon.com/dp/B09BFFGTLH?ref=ppx_yo2ov_dt_b_product_details&th=1)
 [M5 Socket Head Screws]for optional case tenting([url](https://www.amazon.com/dp/B08F9RW1CB?ref=ppx_yo2ov_dt_b_product_details&th=1)https://www.amazon.com/dp/B08F9RW1CB?ref=ppx_yo2ov_dt_b_product_details&th=1) 
 16x [M2x8 counter sunk screws]([url](https://www.amazon.com/NINDEJIN-Countersunk-Replacement-Electronic-Accessories/dp/B0B5CY5LY5/ref=sr_1_6?crid=O46WBTCJA9JE&keywords=m2%2Bscrews%2Bcountersunk&qid=1698800264&sprefix=m2%2Bscrews%2Caps%2C103&sr=8-6&th=1)https://www.amazon.com/NINDEJIN-Countersunk-Replacement-Electronic-Accessories/dp/B0B5CY5LY5/ref=sr_1_6?crid=O46WBTCJA9JE&keywords=m2%2Bscrews%2Bcountersunk&qid=1698800264&sprefix=m2%2Bscrews%2Caps%2C103&sr=8-6&th=1) for attaching the plate to the case
+44x MX style switches of your choice.
+Keycap set of your choice.
